@@ -1,0 +1,7 @@
+- food I like
+  - 🍕
+  - 🍔
+  - 🐟
+- favourite 📖
+  - brave new world
+  - anything from Sebastian Fitzek
