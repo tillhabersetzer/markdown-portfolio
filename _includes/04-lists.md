@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- food I like
+  - 🍕
+  - 🍔
+  - 🐟
+- favourite 📖
+  - brave new world
+  - anything from Sebastian Fitzek
