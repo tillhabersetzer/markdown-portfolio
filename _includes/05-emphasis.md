@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my awesome attributes:
+I can program in __MATLAB__ and __Python__ and I am pretty good at _**tablesoccer**_.
+
